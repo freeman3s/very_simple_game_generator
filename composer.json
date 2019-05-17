@@ -1,0 +1,9 @@
+{
+    "name": "game",
+    "description": "try to create game",
+    "autoload": {
+        "psr-0": {
+            "App": "src/"
+        }
+    }
+}
